@@ -1,0 +1,21 @@
+# LinkedIn Profile Scraper
+
+## Overview
+Hello, everyone!
+
+This Python script utilizes Selenium and BeautifulSoup to scrape information from LinkedIn profiles based on specific criteria. The extracted information includes the name, headline, location, and experience details. The scraped data is then stored in a CSV file.
+
+Users can scrape a number of profiles by modifying the profile list as per convenience.
+
+Please use the program with your LinkedIn credentials and remember to respect LinkedIn's terms of service and usage policies while performing web scraping. (Request Data Avg 3 requests per second interval)
+
+It saves the output in your environment automatically without any external code.
+
+## Requirements
+
+- Python 3.x
+- Chrome WebDriver
+- Chrome Browser
+- Required Python Libraries: `selenium`, `beautifulsoup4`, `webdriver_manager`
+
+# NOTE: FOR THIS PROGRAM, USERS HAVE TO EXPLICITLY PROVIDE LINKEDIN LOGIN CREDENTIALS. Remember to respect LinkedIn's terms of service and usage policies while performing web scraping.
